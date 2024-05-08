@@ -49,7 +49,7 @@
 - [x] - **More soon** 
 
 ## Preview:
-![image](https://github.com/DextenXD/Roblox-Mass-Tools-main/blob/main/src/proof.png)
+![image](https://github.com/DextenXD/Roblox-Mass-Tools/blob/main/src/proof.png)
 
 ## ⭐
 - If you like the tool please star the repo 😊
